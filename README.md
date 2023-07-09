@@ -2,4 +2,5 @@
 Mern Stack Application 
 
 ## ERD DIAGRAM AND DATA MODELING
-/Users/shadabsarang/Downloads/Web Development/MERN Stack /Admin-Dashboard/client/src/assets/ERD.png
+![ERD](https://github.com/Zahid-Sarang/E-Commerce-App/assets/88975408/db13e013-8fe1-41e1-9b5a-44ce8fe29781)
+
